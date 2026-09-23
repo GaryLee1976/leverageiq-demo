@@ -1,14 +1,9 @@
-# LeverageIQ Demo V3
-Interactive Strategic Account Intelligence concept prototype prepared by Gary Briggs for discussion with Mountain Leverage.
+# LeverageIQ Demo V3.1
 
-## V3
-- Guided "Run Demo" story
-- Account workspace and stakeholder view
-- Ask LeverageIQ interaction
-- Opportunity intelligence
-- AI-generated meeting brief
-- Customer follow-up and action plan
-- "Why Gary Built This" philosophy section
+Adds a clear next step at the end of the guided demo:
+- Continue to Account Workspace
+- Jump to Meeting Brief
 
-Static HTML only. No framework, build command, environment variables, or API keys required.
-All companies, people, figures, and signals are illustrative.
+This prevents the guided demo from feeling like it abruptly stops after step 5.
+
+Prepared by Gary Briggs. Illustrative demo data only.
